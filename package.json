@@ -1,6 +1,6 @@
 {
   "name": "rule-engine",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "condition and consequence based rule engine in node",
   "main": "index.js",
   "scripts": {
