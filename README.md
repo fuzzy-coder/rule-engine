@@ -1,6 +1,7 @@
 # README #
 
 Condition and Consequence based async rule-engine in node.
+This package wraps https://github.com/mithunsatheesh/node-rules APIS and enables sync/async support
 
 ### What is this repository for? ###
 
@@ -9,7 +10,7 @@ Condition and Consequence based async rule-engine in node.
 
 ### How do I get set up? ###
 
-* npm install https://bitbucket.org/stylabs/rule-engine
+* npm install rule-engine
 
 ### How do I use api? ###
 
@@ -34,7 +35,3 @@ engine.validate({'user':{'type': 'customer'}}, function(data){
     console.log(data.message);
 });
 ```
-
-### Who do I talk to? ###
-
-* Slack or email aditya :P
