@@ -1,18 +1,20 @@
 {
-  "name": "rule-engine",
-  "version": "0.0.4",
+  "name": "async-rule-engine",
+  "version": "0.0.5",
   "description": "condition and consequence based rule engine in node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "rule-engine", "flow-api", "condition", "consequence"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/stylabs/rule-engine.git"
+    "url": "https://github.com/fuzzy-coder/rule-engine"
   },
   "author": "Aditya Joshi <joshi.aditya402@gmail.com> (https://github.com/fuzzy-coder)",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/stylabs/rule-engine#readme",
   "dependencies": {
     "lodash": "^4.17.4",
     "node-rules": "^3.1.0"
