@@ -10,7 +10,7 @@ This package wraps https://github.com/mithunsatheesh/node-rules APIS and enables
 
 ### How do I get set up? ###
 
-* npm install rule-engine
+* npm install async-rule-engine
 
 ### How do I use api? ###
 
